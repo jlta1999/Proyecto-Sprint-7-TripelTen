@@ -1,6 +1,6 @@
 Proyecto-Sprint-7-TripelTen
 
-*Enlace a mi pagina cargada en Render:  https://proyecto-sprint-7-tripelten.onrender.com
+* Enlace a mi pagina cargada en Render:  https://proyecto-sprint-7-tripelten.onrender.com
 
 * Este repositorio, es para cursar y realizar el proyecto del sprint 7 en mi bootcamp. 
 
