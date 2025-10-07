@@ -12,4 +12,7 @@ Funcionalidad principal:
 - Interfaz simple con **botones** (`st.button`) y gráficos interactivos con **Plotly Express** (`st.plotly_chart`).
 
 Requisitos:
-- Archivo `requirements.txt` con:
+- Archivo `requirements.txt` con librerias a utilizar:
+pandas
+plotly_express
+streamlit
